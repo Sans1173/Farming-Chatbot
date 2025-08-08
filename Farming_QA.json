@@ -1,0 +1,402 @@
+[
+  {
+    "Question": "What is the ideal season for planting this crop? A: Most crops are",
+    "Answer": " sown in the Kharif (June-July) or Rabi (October-November) season, depending on the type."
+  },
+  {
+    "Question": "What is the average growing duration of this crop? A: It varies:",
+    "Answer": " wheat takes 120-150 days, rice 90-120 days, vegetables 60-90 days."
+  },
+  {
+    "Question": "What type of soil is best suited for this crop? A: Loamy soil is",
+    "Answer": " ideal for most crops due to good drainage and nutrient holding."
+  },
+  {
+    "Question": "What is the required soil pH level for this crop? A: Most crops grow",
+    "Answer": " best in slightly acidic to neutral pH (6.0–7.5)."
+  },
+  {
+    "Question": "What is the ideal temperature range for good crop growth? A: Between",
+    "Answer": " 20°C to 35°C is ideal for most crops like rice, wheat, maize."
+  },
+  {
+    "Question": "How much sunlight does this crop need daily? A: 6-8 hours of direct",
+    "Answer": " sunlight is best for healthy crop growth."
+  },
+  {
+    "Question": "What are the different growth stages of this crop? A: Germination →",
+    "Answer": " Vegetative → Flowering → Fruiting → Maturity."
+  },
+  {
+    "Question": "Which variety or hybrid of the crop gives better yield? A: Use",
+    "Answer": " government-recommended hybrids suited to your region for better yield."
+  },
+  {
+    "Question": "Is this crop suitable for your region’s climate? A: Check climate",
+    "Answer": " compatibility in agricultural department guidelines."
+  },
+  {
+    "Question": ". What is the expected yield per acre under good conditions? A:",
+    "Answer": " Depends on the crop: rice gives 20-30 quintals/acre, wheat 15-20."
+  },
+  {
+    "Question": ". Where can you get certified seeds? A: From Krishi Vigyan Kendras,",
+    "Answer": " seed cooperatives, or certified agro-dealers."
+  },
+  {
+    "Question": ". What is the seed rate per acre? A: Seed rate depends on the crop;",
+    "Answer": " wheat uses 40-60 kg per acre."
+  },
+  {
+    "Question": ". What is the ideal sowing depth? A: Usually 2–4 cm, not too deep to",
+    "Answer": " prevent poor germination."
+  },
+  {
+    "Question": ". What is the correct spacing between rows and plants? A: Follow",
+    "Answer": " recommended spacing; e.g., 20 cm between rows for wheat."
+  },
+  {
+    "Question": ". Should the seeds be treated before sowing? A: Yes, treat seeds with",
+    "Answer": " fungicide or Trichoderma to prevent disease."
+  },
+  {
+    "Question": ". How to identify good quality seeds? A: Look for uniform, undamaged,",
+    "Answer": " disease-free seeds."
+  },
+  {
+    "Question": ". What are the common seed treatment methods? A: Use salt-water test",
+    "Answer": " or chemical treatment before sowing."
+  },
+  {
+    "Question": ". What is the best sowing method — broadcasting, dibbling, or line",
+    "Answer": " sowing? A: Line sowing is generally better for spacing and weed control."
+  },
+  {
+    "Question": ". What is the best sowing time in your region? A: Check",
+    "Answer": " agri-department calendar or local weather advice."
+  },
+  {
+    "Question": ". Is transplanting recommended for this crop? A: Yes, for crops like",
+    "Answer": " paddy and vegetables like tomatoes."
+  },
+  {
+    "Question": ". Have you tested your soil before planting? A: Get a soil test every",
+    "Answer": " season from nearby labs or KVK."
+  },
+  {
+    "Question": ". What nutrients are deficient in your soil? A: Use test results to",
+    "Answer": " find deficiencies in NPK and micronutrients."
+  },
+  {
+    "Question": ". How should you prepare the field before sowing? A: Plough, level,",
+    "Answer": " and add compost or manure before sowing."
+  },
+  {
+    "Question": ". Is organic manure or compost required before planting? A: Yes, 1-2",
+    "Answer": " tons per acre improves soil fertility."
+  },
+  {
+    "Question": ". Should green manure be used before sowing? A: Yes, it improves soil",
+    "Answer": " health and adds nitrogen."
+  },
+  {
+    "Question": ". Is ploughing necessary for this crop? A: Yes, especially for hard",
+    "Answer": " or compacted soils."
+  },
+  {
+    "Question": ". How many times should you plough the land? A: 2-3 ploughings with a",
+    "Answer": " gap help prepare the field."
+  },
+  {
+    "Question": ". Is laser levelling beneficial for this crop? A: Yes, it ensures",
+    "Answer": " even water distribution and saves inputs."
+  },
+  {
+    "Question": ". How to improve soil fertility for better yield? A: Use compost,",
+    "Answer": " green manure, and crop rotation."
+  },
+  {
+    "Question": ". Should you add lime/gypsum to correct soil pH? A: Yes, based on",
+    "Answer": " soil test to correct pH and salt content."
+  },
+  {
+    "Question": ". How much water does the crop need per week? A: Most crops need 3–5",
+    "Answer": " cm of water per week; adjust with rainfall."
+  },
+  {
+    "Question": ". What is the best irrigation method — drip, sprinkler, flood? A:",
+    "Answer": " Drip is best for water-saving; use flood only where needed."
+  },
+  {
+    "Question": ". How often should irrigation be done at different crop stages? A:",
+    "Answer": " Germination – daily; flowering – 2-3 days; maturity – weekly."
+  },
+  {
+    "Question": ". How to identify water stress in the crop? A: Wilting, curling",
+    "Answer": " leaves, or dull color shows water stress."
+  },
+  {
+    "Question": ". Can rainwater harvesting help in irrigation? A: Yes, collect and",
+    "Answer": " store water for off-season use."
+  },
+  {
+    "Question": ". Is your field drainage good to avoid waterlogging? A: Improve slope",
+    "Answer": " and build drains to avoid standing water."
+  },
+  {
+    "Question": ". How to reduce water usage without reducing yield? A: Use mulching,",
+    "Answer": " drip, and rainwater to reduce usage."
+  },
+  {
+    "Question": ". Is mulching needed to retain soil moisture? A: Yes, it prevents",
+    "Answer": " evaporation and keeps soil cool."
+  },
+  {
+    "Question": ". Should you irrigate in the early morning or evening? A: Morning or",
+    "Answer": " late evening reduces evaporation loss."
+  },
+  {
+    "Question": ". Can you use soil moisture sensors to schedule irrigation? A: Yes,",
+    "Answer": " they help schedule irrigation efficiently."
+  },
+  {
+    "Question": ". What is the recommended fertilizer dose per acre? A: Based on crop:",
+    "Answer": " e.g., wheat needs 80:40:40 NPK per acre."
+  },
+  {
+    "Question": ". When should fertilizers be applied during the crop cycle? A: At",
+    "Answer": " sowing, tillering, flowering, and fruiting stages."
+  },
+  {
+    "Question": ". How to apply fertilizer—broadcast, foliar spray, fertigation? A:",
+    "Answer": " Broadcast for dry fields, spray for foliar nutrients, drip for fertigation."
+  },
+  {
+    "Question": ". Can you use organic fertilizers like cow dung or vermicompost? A:",
+    "Answer": " Yes, they enrich soil and reduce chemical use."
+  },
+  {
+    "Question": ". What are the signs of nitrogen deficiency in the crop? A: Yellowing",
+    "Answer": " leaves show nitrogen deficiency."
+  },
+  {
+    "Question": ". Should you split the fertilizer dose for better results? A: Yes,",
+    "Answer": " split doses at key growth stages improve uptake."
+  },
+  {
+    "Question": ". What are the micronutrients needed for this crop? A: Zinc, boron,",
+    "Answer": " magnesium, and sulfur are common needs."
+  },
+  {
+    "Question": ". Can you use biofertilizers for better soil health? A: Yes,",
+    "Answer": " Azotobacter and Rhizobium help nitrogen fixation."
+  },
+  {
+    "Question": ". How to correct nutrient deficiency quickly? A: Use foliar sprays or",
+    "Answer": " micronutrient solutions."
+  },
+  {
+    "Question": ". How to avoid over-fertilization? A: Follow recommended doses and",
+    "Answer": " never mix too many inputs."
+  },
+  {
+    "Question": ". What are the common pests for this crop? A: Rice: stem borer,",
+    "Answer": " Wheat: aphids, Cotton: bollworm."
+  },
+  {
+    "Question": ". What are the early signs of pest attack? A: Chewed leaves, holes,",
+    "Answer": " sticky residue, stunted growth."
+  },
+  {
+    "Question": ". Which organic methods can control pests? A: Neem oil, chili spray,",
+    "Answer": " and pheromone traps are effective."
+  },
+  {
+    "Question": ". When should pesticides be sprayed? A: At early infestation or when",
+    "Answer": " pest population rises."
+  },
+  {
+    "Question": ". What is the recommended dose of pesticide per liter of water? A:",
+    "Answer": " Usually 2 ml per liter for liquid pesticides; check label."
+  },
+  {
+    "Question": ". Are there resistant crop varieties available? A: Yes, buy certified",
+    "Answer": " resistant seeds if available."
+  },
+  {
+    "Question": ". What safety precautions should be taken while spraying? A: Wear",
+    "Answer": " gloves, mask, goggles, and spray in the wind’s direction."
+  },
+  {
+    "Question": ". What are the common diseases affecting this crop? A: Rice: blast,",
+    "Answer": " Wheat: rust, Vegetables: wilt, blight."
+  },
+  {
+    "Question": ". Can crop rotation help reduce pest/disease problems? A: Yes, it",
+    "Answer": " breaks pest and disease cycles."
+  },
+  {
+    "Question": ". Should you use neem-based bio-pesticides? A: Yes, neem is",
+    "Answer": " eco-friendly and safe for food crops."
+  },
+  {
+    "Question": ". What are the common weeds in your field? A: Grasses, unwanted herbs",
+    "Answer": " competing for water/nutrients."
+  },
+  {
+    "Question": ". When should you do the first weeding? A: Usually 15-20 days after",
+    "Answer": " sowing."
+  },
+  {
+    "Question": ". Is manual weeding or mechanical weeding better? A: Manual is good",
+    "Answer": " for small farms; mechanical for large areas."
+  },
+  {
+    "Question": ". Can you use weedicide safely? A: Yes, follow label instructions and",
+    "Answer": " use safely."
+  },
+  {
+    "Question": ". How many times weeding is required for this crop? A: Usually 2-3",
+    "Answer": " weedings per season depending on growth."
+  },
+  {
+    "Question": ". How to identify if a plant is a weed or crop? A: Check leaf shape,",
+    "Answer": " color, and growth pattern."
+  },
+  {
+    "Question": ". Should you use cover crops to reduce weed growth? A: Yes, they",
+    "Answer": " suppress weed growth naturally."
+  },
+  {
+    "Question": ". What time of the day is best for herbicide spray? A: Morning or",
+    "Answer": " late evening with calm wind."
+  },
+  {
+    "Question": ". What is integrated weed management? A: It combines manual,",
+    "Answer": " chemical, and cultural methods."
+  },
+  {
+    "Question": ". Can intercropping help reduce weeds? A: Yes, it shades the soil and",
+    "Answer": " uses space efficiently."
+  },
+  {
+    "Question": ". What are the signs that the crop is ready to harvest? A: Color",
+    "Answer": " change, maturity, or drying leaves indicate harvest time."
+  },
+  {
+    "Question": ". What is the best time of day to harvest? A: Early morning when the",
+    "Answer": " crop is cool and fresh."
+  },
+  {
+    "Question": ". How to avoid grain or produce loss during harvesting? A: Use clean",
+    "Answer": " tools, proper technique, and avoid trampling."
+  },
+  {
+    "Question": ". Is mechanized harvesting suitable for your farm size? A: Yes,",
+    "Answer": " harvesters save time and reduce losses."
+  },
+  {
+    "Question": ". How to store the produce safely? A: Use clean, dry, and ventilated",
+    "Answer": " storage."
+  },
+  {
+    "Question": ". How to dry the produce before storing? A: Dry in sun or shade until",
+    "Answer": " moisture is low enough."
+  },
+  {
+    "Question": ". What are the best ways to pack the produce for transport? A: Use",
+    "Answer": " sacks, crates, or baskets depending on the crop."
+  },
+  {
+    "Question": ". What are government storage or warehouse options near you? A: Check",
+    "Answer": " with local mandi, warehouse or FCI godowns."
+  },
+  {
+    "Question": ". Is there any MSP (Minimum Support Price) for this crop? A: Yes,",
+    "Answer": " government declares MSP for key crops every season."
+  },
+  {
+    "Question": ". Can you sell your crop online? A: Yes, platforms like eNAM or apps",
+    "Answer": " like KisanMandi help."
+  },
+  {
+    "Question": ". How can intercropping increase income? A: It increases land use",
+    "Answer": " efficiency and income."
+  },
+  {
+    "Question": ". What are the short-duration crops you can grow with it? A: Radish,",
+    "Answer": " spinach, or coriander can grow with long crops."
+  },
+  {
+    "Question": ". Can you access farm credit or loan for inputs? A: Yes, from banks,",
+    "Answer": " co-operatives, or government schemes."
+  },
+  {
+    "Question": ". Are there farmer groups or FPOs nearby you can join? A: Yes, they",
+    "Answer": " give better input rates and market access."
+  },
+  {
+    "Question": ". What mobile apps or websites can help with market prices? A: Agri",
+    "Answer": " apps like Kisan Suvidha, AgriApp show mandi prices."
+  },
+  {
+    "Question": ". Is crop insurance available for this crop? A: Yes, most major crops",
+    "Answer": " have crop insurance via PMFBY."
+  },
+  {
+    "Question": ". Can you process the produce to increase value? A: Yes, like tomato",
+    "Answer": " ketchup, jaggery, etc. adds value."
+  },
+  {
+    "Question": ". What government schemes can help with input costs? A: Subsidies on",
+    "Answer": " seeds, equipment, and insurance are available."
+  },
+  {
+    "Question": ". Can contract farming benefit you? A: Yes, it gives fixed buyers and",
+    "Answer": " reduces risk."
+  },
+  {
+    "Question": ". Is it profitable to switch to organic for this crop? A: Yes, but",
+    "Answer": " transition takes 2-3 years with lower yield initially."
+  },
+  {
+    "Question": ". Are there Krishi Vigyan Kendras near you for guidance? A: Yes, they",
+    "Answer": " provide advice, seed, and test services."
+  },
+  {
+    "Question": ". Have you attended any recent farmer training? A: Yes, some NGOs and",
+    "Answer": " departments conduct them monthly."
+  },
+  {
+    "Question": ". Are you aware of best practices from nearby successful farmers? A:",
+    "Answer": " Yes, nearby farmers may have successful practices you can learn."
+  },
+  {
+    "Question": ". Can you maintain a crop diary or record book? A: Yes, keep records",
+    "Answer": " of inputs, weather, yield, and pests."
+  },
+  {
+    "Question": ". Do you listen to radio or watch farming channels regularly? A: Yes,",
+    "Answer": " DD Kisan or community radio offer good tips."
+  },
+  {
+    "Question": ". Do you attend local agriculture fairs or exhibitions? A: Yes,",
+    "Answer": " attend Rabi or Kharif exhibitions and demos."
+  },
+  {
+    "Question": ". Do you use YouTube or WhatsApp for farming advice? A: Yes, many use",
+    "Answer": " social media and YouTube for info."
+  },
+  {
+    "Question": ". Can you consult an agriculture expert before each season? A: Yes,",
+    "Answer": " before each crop season to update your plan."
+  },
+  {
+    "Question": ". Are you connected with your local agriculture officer? A: Yes, they",
+    "Answer": " offer free expert advice and resources."
+  },
+  {
+    "Question": "0. Would you be open to adopting new techniques if proven successful?",
+    "Answer": "Yes, trying new tested techniques improves productivity."
+  }
+]
