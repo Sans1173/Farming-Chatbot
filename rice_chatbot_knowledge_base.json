@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is the ideal temperature for rice cultivation?",
+    "answer": "The ideal temperature for rice growth ranges between 25°C to 35°C. Germination requires 20–35°C, while flowering is best between 25–28°C. Prolonged temperatures above 35°C during flowering can reduce grain yield.\n\n2."
+  },
+  {
+    "question": "What type of soil is best for rice?",
+    "answer": "Clayey loam to silty loam soils with good water retention and a pH range of 5.5 to 7.0 are ideal for rice cultivation. Acidic soils can be improved by liming.\n\n3."
+  },
+  {
+    "question": "How much water does a rice field need?",
+    "answer": "Rice requires about 1200–1500 mm of water per growing season. Maintain 5–10 cm of standing water during vegetative growth and drain during maturity for better grain quality.\n\n4."
+  },
+  {
+    "question": "What is System of Rice Intensification (SRI)?",
+    "answer": "SRI is a method of cultivating rice using less water and young seedlings planted singly at wider spacing. It promotes aerobic soil conditions and significantly increases yield.\n\n5."
+  },
+  {
+    "question": "What fertilizer schedule should I follow for rice?",
+    "answer": "For medium fertility soil (per acre):\n      - Nitrogen (N): 40–60 kg\n      - Phosphorus (P2O5): 20–30 kg\n      - Potassium (K2O): 20–30 kg\n      Apply nitrogen in three splits: 50% basal, 25% at tillering, 25% at panicle initiation.\n\n6."
+  },
+  {
+    "question": "Can organic farming be practiced for rice?",
+    "answer": "Yes. Use compost, green manure (like Dhaincha), Azolla, biofertilizers (Azospirillum, PSB), and neem-based pest repellents. Avoid synthetic chemicals and follow certification guidelines.\n\n7."
+  },
+  {
+    "question": "How do I prevent lodging in rice?",
+    "answer": "Avoid excess nitrogen, use shorter duration or dwarf varieties (e.g., IR64), transplant young seedlings (15–18 days old), and maintain appropriate plant spacing (20x15 cm).\n\n8."
+  },
+  {
+    "question": "When should I transplant rice seedlings?",
+    "answer": "Transplant 2–3 seedlings per hill at 2–3 leaf stage (15–18 days old) for short-duration varieties and 20–25 days for medium-duration types.\n\n9."
+  },
+  {
+    "question": "What is the ideal planting season for Kharif rice in India?",
+    "answer": "Mid-June to mid-July, depending on monsoon arrival. Early planting helps avoid peak pest periods and ensures higher yields.\n\n10."
+  },
+  {
+    "question": "What are the common weather-related stresses for rice?",
+    "answer": "- Flooding/submergence\n    - Drought\n    - Heat stress during flowering\n    - Cold injury in seedlings (below 15°C)\n    Use climate-resilient varieties like Swarna Sub1 (for submergence), Sahbhagi Dhan (for drought).\n\n11."
+  },
+  {
+    "question": "How can I manage weeds in rice fields?",
+    "answer": "Use pre-emergence herbicides like Butachlor or Pendimethalin within 2 days after transplanting. Hand weeding at 20 and 40 DAT (Days After Transplanting) is effective. For DSR (direct-seeded rice), use post-emergence herbicides like Bispyribac-sodium.\n\n12."
+  },
+  {
+    "question": "What is the role of zinc in rice?",
+    "answer": "Zinc is vital for tillering and enzyme activity. Deficiency symptoms include bronzing and stunted growth. Apply 25 kg/ha of Zinc Sulphate before transplanting.\n\n13."
+  },
+  {
+    "question": "How do I know my rice crop is ready for harvest?",
+    "answer": "When 80–85% of the grains on the panicle turn golden yellow and hard. Harvesting at the right time prevents shattering and quality loss.\n\n14."
+  },
+  {
+    "question": "What is Direct Seeded Rice (DSR)?",
+    "answer": "DSR is sowing seeds directly into the field using a drill machine, eliminating the need for nurseries and transplanting. It saves labor and water but requires precise weed and water management.\n\n15."
+  },
+  {
+    "question": "How to improve soil fertility for rice?",
+    "answer": "Practice crop rotation (rice-legume), apply compost or FYM (5–10 tons/ha), use green manure, avoid continuous monocropping, and periodically test soil for nutrient corrections."
+  }
+]
